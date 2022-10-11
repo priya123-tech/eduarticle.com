@@ -1,0 +1,42 @@
+.bg-container{
+  background-color: #225db0;
+ background-size: cover;
+  height: 100vh;
+  color: aliceblue;
+  width: 100vw;
+ 
+}
+.image{
+  padding: 30px;
+  border-radius: 20px;
+  margin: 10px;}
+
+  .image-domain{
+    margin-top: 15px;
+    
+  }
+  .heading{
+    
+    font-family:  sans-serif;
+    text-decoration-line: underline;
+    padding-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    font-weight: bold;
+  }
+  .tech-page
+  {
+    height: fit-content;
+    background-color: #225db0;
+    background-size: cover;
+    color:aliceblue;
+    font-size: 40px;
+   
+  }
+  .list-container
+  {
+    margin-top: 50px;
+    
+  }
+ 
+  
